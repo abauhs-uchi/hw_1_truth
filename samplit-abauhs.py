@@ -15,3 +15,6 @@ df_s = df[np.random.random(len(df)) < 0.01]
 print(df_s.to_string())
 
 # python samplit-abauhs.py nobel-prize-laureates.csv
+
+#Im getting lost
+
